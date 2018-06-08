@@ -146,7 +146,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     right: 0,
     top: 0,
-    bottom: 0
+    bottom: 0,
   },
 
   item: {
@@ -154,13 +154,13 @@ const styles = StyleSheet.create({
   },
 
   text: {
-    fontSize: 12,
+    fontSize: 10,
     fontWeight: '400',
     color: '#0173fa'
   },
 
   inactivetext: {
-    fontSize: 12,
+    fontSize: 10,
     fontWeight: '400',
     color: '#ccc'
   }
